@@ -4,8 +4,8 @@
 		<div class="ph15 pcenter">
 				<div class="adres">
 					<ul>
-						<li><p>Adresgegevens
-							Terheijdenseweg 350
+						<li><p>Adresgegevens</p></li>
+						<li><p>Terheijdenseweg 350
 						4826 AA Breda</p></li>
 						<li><p>Telefoonnummer
 						076-5733444</p></li>
