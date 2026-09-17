@@ -179,9 +179,11 @@ h4{
 
 /*================header=======================*/
 header{
-  background-color: rgba(255, 255, 255, 0.95);
+  background-color: #fff;
+  border-top: 3px solid #015940;
+  box-shadow: 0 2px 6px rgba(150, 183, 174, 0.55);
   position: fixed;
-  top:0;
+  top: 0;
   z-index: 10;
   width: 100%;
 }
