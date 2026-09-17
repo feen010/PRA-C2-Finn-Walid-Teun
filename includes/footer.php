@@ -14,7 +14,7 @@
 					</ul>
 				</div>
 				<div class="social">
-					<a href="https://nl-nl.facebook.com/curioonderwijs target="_blank""><i class="fab fa-facebook-square" ></i></a>
+					<a href="https://nl-nl.facebook.com/curioonderwijs" target="_blank"><i class="fab fa-facebook-square" ></i></a>
 
 					<a href="https://twitter.com/curioonderwijs?lang=en" target="_blank"><i class="fab fa-twitter-square"></i></a>
 

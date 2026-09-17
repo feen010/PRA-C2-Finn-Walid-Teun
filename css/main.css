@@ -212,11 +212,11 @@ nav a{
   background: #02E6A5;
   border-radius: 8px;
   text-decoration: none;
-  color: #fff;
+  color: #001604;
   letter-spacing: 6px;
 }
 nav a:hover{
-  background-color: #fff;
+  background-color: #015940;
   color: black;
 }
 
